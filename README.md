@@ -1,5 +1,5 @@
-<p align = 'center'>
-  <img src = 'https://cdn.discordapp.com/avatars/775940482597257259/c71b5084db315bcbb556fab8471873f0.png?size=1024' width = 200>
+<h1 align = 'center'>
+  <img src = 'https://i.imgur.com/OayhsYu.png' width = 250>
 </p>
 
 <h1 align = 'center'>Sanae chan</h1>
