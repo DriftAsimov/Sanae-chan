@@ -1,4 +1,8 @@
-# Sanae chan
+<p align = 'center'>
+  <img src = 'https://cdn.discordapp.com/avatars/775940482597257259/c71b5084db315bcbb556fab8471873f0.png?size=1024' width = 200>
+</p>
+
+<h1 align = 'center'>Sanae chan</h1>
 
 This is an experiment ticket bot made using TypeScript with discord.js. This bot was made ~~because I wanted to how powerful djs is~~ to showcase functioning of buttons in djs v13 aka master branch.
 
@@ -24,6 +28,8 @@ Running this bot is as simple as running a normal ts/js project
 * If you wanna use it for development, you can use `nodemon src/index.ts` to watch over your files
 
 If everything goes alright then the bot should be online!
+
+<img src = 'https://user-images.githubusercontent.com/65854695/128594694-cec61b58-ab35-4c57-bdcf-7520585e03d0.png'>
 
 ### P.S.
 
