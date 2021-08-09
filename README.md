@@ -4,7 +4,7 @@
 
 <h1 align = 'center'>Sanae chan</h1>
 
-This is an experiment ticket bot made using TypeScript with discord.js. This bot was made ~~because I wanted to how powerful djs is~~ to showcase functioning of buttons in djs v13.
+This is an experiment ticket bot made using TypeScript with discord.js. This bot was made ~~because I wanted to how powerful djs is~~ to showcase functioning of djs v13.
 
 ## Prerequistics
 
