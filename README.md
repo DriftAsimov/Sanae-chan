@@ -20,7 +20,7 @@ Git is required to clone this repo locally
 
 Running this bot is as simple as running a normal ts/js project
 
-* Clone this repo using `git clone url`
+* Clone this repo using `git clone https://github.com/DriftAsimov/Sanae-chan/`
 * Do `cd Sanae-chan`
 * Now run `npm install` which will install the requirements
 * Create a `.env` file in current directory taking format from [.env.example](.env.example)
