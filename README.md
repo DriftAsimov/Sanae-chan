@@ -23,7 +23,7 @@ Running this bot is as simple as running a normal ts/js project
 * Clone this repo using `git clone https://github.com/DriftAsimov/Sanae-chan/`
 * Do `cd Sanae-chan`
 * Now run `npm install` which will install the requirements
-* Create a `.env` file in current directory taking format from [.env.example](.env.example)
+* Create a `.env` file in current directory taking format from [env.example](env.example)
 * Now to run the bot you can either do `ts-node src/index.ts` or `npm run build` and then `npm start`
 * If you wanna use it for development, you can use `nodemon src/index.ts` to watch over your files
 
